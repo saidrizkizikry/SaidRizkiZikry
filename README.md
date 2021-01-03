@@ -1,0 +1,2 @@
+# SaidRizkiZikry
+ Tugas Fundamental
