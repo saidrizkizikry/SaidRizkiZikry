@@ -1,0 +1,8 @@
+class Main {
+  public static void main(String[] args) {
+    
+  for (int nilai = 0; nilai < 20; nilai++) {
+    System.out.println("Saya berjanji akan rajin belajar Java!");
+  }
+  }
+}

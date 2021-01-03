@@ -1,0 +1,13 @@
+class Main {
+  public static void main(String[] args) {
+    int x = 11;
+    int y = 11;			
+     // Inisialisasi variabel bertipe data int
+        int nilai = 11;
+        		// Output
+        System.out.println( 11 );
+        
+		// Output
+        System.out.println( 11 );
+  }
+}

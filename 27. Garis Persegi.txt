@@ -1,0 +1,22 @@
+import java.util.*;
+
+class Main {
+  public static void main(String[] args) {
+    Scanner hashtag = new Scanner(System.in);
+    int a = hashtag.nextInt();
+    
+    for ( int b = 1; b <= a; b++ ) {
+        
+          for (int c = 1; c <= a; c++) {
+           
+           if ( b == 1 || b == a || c == 1 || c == a) {
+             
+             System.out.print("#");
+           } else {
+           System.out.print(" ");
+          }
+        }
+        System.out.println("");
+    }
+  }
+}

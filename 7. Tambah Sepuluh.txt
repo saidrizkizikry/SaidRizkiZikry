@@ -1,0 +1,7 @@
+class Main {
+  public static void main(String[] args) {
+    int nilai = 8 + 10;
+  String angka = "8 + 10";		// outputnya 18
+        System.out.println(8 + 10);	// outputnya Error
+  }
+}

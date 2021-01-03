@@ -1,0 +1,6 @@
+class Main {
+  public static void main(String[] args) {
+    String teks = "saya berkata,\"cepat belajar!\"";
+    System.out.println("Saya berkata, \"Rajin belajar, ya!\"");
+  }
+}

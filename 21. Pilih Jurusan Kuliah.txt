@@ -1,0 +1,31 @@
+import java.util.Scanner;
+
+class Main {
+  public static void main(String[] args) {
+    
+      String welcome = "Selamat datang di jurusan ";
+      
+      Scanner input = new Scanner(System.in);
+      System.out.print("");
+      int jurusan = input.nextInt();
+
+        switch (jurusan) {
+            case 1 :
+                System.out.println( welcome + "Teknik Informatika");
+                break;
+            case 2 :
+                System.out.println( welcome + "Sistem Informasi");
+                break;
+            case 3 :
+                System.out.println( welcome + "Teknik Elektro");
+                break;
+            case 4 :
+                System.out.println( welcome + "Teknik Industri");
+                break;
+            case 5 :
+                System.out.println( welcome + "Matematika Terapan");
+                break;
+            
+       }
+    }
+}
